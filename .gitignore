@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Logs
+*.log
+
+# Config
+.env
+
+# Editor
+.vscode/settings.json
+.vscode/*.code-workspace
